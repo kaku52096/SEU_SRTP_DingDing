@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: ffa51461e51cffc4cadec435b62127c9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Butt_alarm
+    100002: Butt_alarm001
+    100004: Butt_Close
+    100006: Butt_Close001
+    100008: Butt_Down
+    100010: Butt_Down001
+    100012: Butt_Open
+    100014: Butt_Open001
+    100016: Butt_Up
+    100018: Butt_Up001
+    100020: Button_010
+    100022: Button_011
+    100024: Button_012
+    100026: Button_013
+    100028: Button_014
+    100030: Button_015
+    100032: Button_016
+    100034: Button_017
+    100036: Button_018
+    100038: Button_1
+    100040: Button_2
+    100042: Button_3
+    100044: Button_4
+    100046: Button_5
+    100048: Button_6
+    100050: Button_7
+    100052: Button_8
+    100054: Button_9
+    100056: Button_B003
+    100058: Button_B004
+    100060: Button_B1
+    100062: Button_B2
+    100064: Button_G
+    100066: Button_G001
+    100068: Button_R
+    100070: Button_R001
+    100072: Display
+    100074: Display001
+    100076: Display_003
+    100078: Display_2
+    100080: Door_Left
+    100082: Door_Left001
+    100084: Door_Left002
+    100086: Door_Left003
+    100088: Door_Right
+    100090: Door_Right001
+    100092: Door_Right002
+    100094: Door_Right003
+    100096: Dummy_Door_Left
+    100098: Dummy_Door_Left001
+    100100: Dummy_Door_Right
+    100102: Dummy_Door_Right001
+    100104: Elevator
+    100106: Elevator001
+    100108: //RootNode
+    100110: Frame
+    100112: Frame 1
+    100114: Frame001
+    100116: Frame002
+    100118: Group001
+    100120: Line001
+    100122: Object001
+    100124: Object277
+    100126: Object278
+    100128: Object279
+    100130: Object280
+    100132: Panel
+    100134: Panel 1
+    100136: Panel001
+    100138: Panel002
+    400000: Butt_alarm
+    400002: Butt_alarm001
+    400004: Butt_Close
+    400006: Butt_Close001
+    400008: Butt_Down
+    400010: Butt_Down001
+    400012: Butt_Open
+    400014: Butt_Open001
+    400016: Butt_Up
+    400018: Butt_Up001
+    400020: Button_010
+    400022: Button_011
+    400024: Button_012
+    400026: Button_013
+    400028: Button_014
+    400030: Button_015
+    400032: Button_016
+    400034: Button_017
+    400036: Button_018
+    400038: Button_1
+    400040: Button_2
+    400042: Button_3
+    400044: Button_4
+    400046: Button_5
+    400048: Button_6
+    400050: Button_7
+    400052: Button_8
+    400054: Button_9
+    400056: Button_B003
+    400058: Button_B004
+    400060: Button_B1
+    400062: Button_B2
+    400064: Button_G
+    400066: Button_G001
+    400068: Button_R
+    400070: Button_R001
+    400072: Display
+    400074: Display001
+    400076: Display_003
+    400078: Display_2
+    400080: Door_Left
+    400082: Door_Left001
+    400084: Door_Left002
+    400086: Door_Left003
+    400088: Door_Right
+    400090: Door_Right001
+    400092: Door_Right002
+    400094: Door_Right003
+    400096: Dummy_Door_Left
+    400098: Dummy_Door_Left001
+    400100: Dummy_Door_Right
+    400102: Dummy_Door_Right001
+    400104: Elevator
+    400106: Elevator001
+    400108: //RootNode
+    400110: Frame
+    400112: Frame 1
+    400114: Frame001
+    400116: Frame002
+    400118: Group001
+    400120: Line001
+    400122: Object001
+    400124: Object277
+    400126: Object278
+    400128: Object279
+    400130: Object280
+    400132: Panel
+    400134: Panel 1
+    400136: Panel001
+    400138: Panel002
+    2300000: Butt_alarm
+    2300002: Butt_alarm001
+    2300004: Butt_Close
+    2300006: Butt_Close001
+    2300008: Butt_Down
+    2300010: Butt_Down001
+    2300012: Butt_Open
+    2300014: Butt_Open001
+    2300016: Butt_Up
+    2300018: Butt_Up001
+    2300020: Button_010
+    2300022: Button_011
+    2300024: Button_012
+    2300026: Button_013
+    2300028: Button_014
+    2300030: Button_015
+    2300032: Button_016
+    2300034: Button_017
+    2300036: Button_018
+    2300038: Button_1
+    2300040: Button_2
+    2300042: Button_3
+    2300044: Button_4
+    2300046: Button_5
+    2300048: Button_6
+    2300050: Button_7
+    2300052: Button_8
+    2300054: Button_9
+    2300056: Button_B003
+    2300058: Button_B004
+    2300060: Button_B1
+    2300062: Button_B2
+    2300064: Button_G
+    2300066: Button_G001
+    2300068: Button_R
+    2300070: Button_R001
+    2300072: Display
+    2300074: Display001
+    2300076: Display_003
+    2300078: Display_2
+    2300080: Door_Left
+    2300082: Door_Left001
+    2300084: Door_Left002
+    2300086: Door_Left003
+    2300088: Door_Right
+    2300090: Door_Right001
+    2300092: Door_Right002
+    2300094: Door_Right003
+    2300096: Elevator
+    2300098: Elevator001
+    2300100: Frame 1
+    2300102: Frame002
+    2300104: Line001
+    2300106: Object277
+    2300108: Object278
+    2300110: Object279
+    2300112: Object280
+    2300114: Panel 1
+    2300116: Panel002
+    3300000: Butt_alarm
+    3300002: Butt_alarm001
+    3300004: Butt_Close
+    3300006: Butt_Close001
+    3300008: Butt_Down
+    3300010: Butt_Down001
+    3300012: Butt_Open
+    3300014: Butt_Open001
+    3300016: Butt_Up
+    3300018: Butt_Up001
+    3300020: Button_010
+    3300022: Button_011
+    3300024: Button_012
+    3300026: Button_013
+    3300028: Button_014
+    3300030: Button_015
+    3300032: Button_016
+    3300034: Button_017
+    3300036: Button_018
+    3300038: Button_1
+    3300040: Button_2
+    3300042: Button_3
+    3300044: Button_4
+    3300046: Button_5
+    3300048: Button_6
+    3300050: Button_7
+    3300052: Button_8
+    3300054: Button_9
+    3300056: Button_B003
+    3300058: Button_B004
+    3300060: Button_B1
+    3300062: Button_B2
+    3300064: Button_G
+    3300066: Button_G001
+    3300068: Button_R
+    3300070: Button_R001
+    3300072: Display
+    3300074: Display001
+    3300076: Display_003
+    3300078: Display_2
+    3300080: Door_Left
+    3300082: Door_Left001
+    3300084: Door_Left002
+    3300086: Door_Left003
+    3300088: Door_Right
+    3300090: Door_Right001
+    3300092: Door_Right002
+    3300094: Door_Right003
+    3300096: Elevator
+    3300098: Elevator001
+    3300100: Frame 1
+    3300102: Frame002
+    3300104: Line001
+    3300106: Object277
+    3300108: Object278
+    3300110: Object279
+    3300112: Object280
+    3300114: Panel 1
+    3300116: Panel002
+    4300000: Object277
+    4300002: Object278
+    4300004: Object279
+    4300006: Object280
+    4300008: Line001
+    4300010: Elevator
+    4300012: Panel
+    4300014: Display
+    4300016: Butt_alarm
+    4300018: Button_5
+    4300020: Butt_Open
+    4300022: Button_B1
+    4300024: Butt_Close
+    4300026: Button_9
+    4300028: Button_1
+    4300030: Button_7
+    4300032: Button_3
+    4300034: Button_G
+    4300036: Button_8
+    4300038: Button_4
+    4300040: Button_R
+    4300042: Button_2
+    4300044: Button_B2
+    4300046: Button_6
+    4300048: Door_Right
+    4300050: Door_Right001
+    4300052: Door_Left
+    4300054: Door_Left001
+    4300056: Door_Left002
+    4300058: Door_Left003
+    4300060: Door_Right002
+    4300062: Door_Right003
+    4300064: Elevator001
+    4300066: Butt_Close001
+    4300068: Butt_Open001
+    4300070: Butt_alarm001
+    4300072: Button_010
+    4300074: Button_011
+    4300076: Button_012
+    4300078: Button_013
+    4300080: Button_014
+    4300082: Button_015
+    4300084: Button_016
+    4300086: Button_017
+    4300088: Button_018
+    4300090: Button_B003
+    4300092: Button_B004
+    4300094: Button_G001
+    4300096: Button_R001
+    4300098: Display001
+    4300100: Panel002
+    4300102: Frame
+    4300104: Display_2
+    4300106: Butt_Up
+    4300108: Butt_Down
+    4300110: Butt_Down001
+    4300112: Butt_Up001
+    4300114: Display_003
+    4300116: Frame002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: 53800e1f15c4685408ee249cd824f623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK
+    second: {fileID: 2100000, guid: c353baff07ab7c44791a6e25f4889afe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butt_Close
+    second: {fileID: 2100000, guid: 8d966d3db5948d74baeab7e295c8e92e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butt_Down
+    second: {fileID: 2100000, guid: 03e43ead3d8011a469e14b50a0074c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butt_Open
+    second: {fileID: 2100000, guid: afb4ae81b95149347aef33f7cb0cccc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butt_Up_ON
+    second: {fileID: 2100000, guid: 03e43ead3d8011a469e14b50a0074c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butt_alarm
+    second: {fileID: 2100000, guid: eb26017e1f7b7ae4b9119d1cb21819e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_1
+    second: {fileID: 2100000, guid: b49015817e18e3141a2dd93ae181062a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_2
+    second: {fileID: 2100000, guid: 9ca878b25bf11c742af938b410794c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_3
+    second: {fileID: 2100000, guid: cdfcb809c1ffb49479906f818f6ac50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_4
+    second: {fileID: 2100000, guid: b6c874e9c817f854aa0e77313ade2522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_5
+    second: {fileID: 2100000, guid: 0dfff00b5aefac0418b44d5b44dc6ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_6
+    second: {fileID: 2100000, guid: 91311ad2900fa5b45958f69f143eebcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_7
+    second: {fileID: 2100000, guid: 878c4baeb320cde40899b7b90437307d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_8
+    second: {fileID: 2100000, guid: 80f18f4a1fd09ff4ead85e2bd262af64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_9
+    second: {fileID: 2100000, guid: 2ce78ae32aa80a84db2d367b88364f95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_B1
+    second: {fileID: 2100000, guid: 033ccae6df392d344a298172252154f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_B2
+    second: {fileID: 2100000, guid: c97e6d9555afb3c4dbd889b801e250e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_G
+    second: {fileID: 2100000, guid: 627eb45a575485b43a2981e67da2480e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_R
+    second: {fileID: 2100000, guid: 85f6e080fb4ece5408296b2ac1c4d081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Disp_B2
+    second: {fileID: 2100000, guid: e56d5955d5666724ab7cabb091792d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: bb3f7740f29fde241997d956a20a473d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: e27ed99e2e571f347a00690e32298616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e8d940ff5f786f04bbaa660698aa89af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panel with buttons
+    second: {fileID: 2100000, guid: c226671fe71937840baa81e194eb42b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_lift
+    second: {fileID: 2100000, guid: e7bdb05b24d3e65469f31d6f74a24e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doors_lift
+    second: {fileID: 2100000, guid: a761aa6fabf0e9642a099488129f5df3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_lift
+    second: {fileID: 2100000, guid: 0c393c9047958a44eb9567ffb70254b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_Doors
+    second: {fileID: 2100000, guid: f5d5fdd3042c17a4987349b4d186e38a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_floor
+    second: {fileID: 2100000, guid: 4e928cc21b9b24b48965cee78200ec9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_plintus
+    second: {fileID: 2100000, guid: 86c7728f218125546b86f25eab3818d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_roof
+    second: {fileID: 2100000, guid: 4795dd44aeea7bb47837d895bad5f6d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_ruchka
+    second: {fileID: 2100000, guid: 57fe55370041f0e4a884f4a12870dc39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_wall
+    second: {fileID: 2100000, guid: b8ebdc307d011f1488e86b66a45610c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_wall2
+    second: {fileID: 2100000, guid: 9215713544cb0d343a470f83d4df152d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koridor_wall3
+    second: {fileID: 2100000, guid: ddb74e3db76d0264a8e68f147479401a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: edb73cf4f2dcc2a4d91aa9e06e60b2a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_lift
+    second: {fileID: 2100000, guid: 8a9b0e3571ccf074b94422a8e6f69ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_new_2
+    second: {fileID: 2100000, guid: 2576c5104d361804b86b3d3f304d8a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_new_3
+    second: {fileID: 2100000, guid: 3189b1b9ed91c5b4a92f452a0c1e6321, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
